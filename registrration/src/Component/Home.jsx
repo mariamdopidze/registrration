@@ -1,7 +1,10 @@
 import React from 'react';
 import "./home.css";
 
+
+
 function Home (){
+ 
 
     return(
         <div className="home-box">
@@ -14,8 +17,8 @@ function Home (){
              and practical sessions.</p>
              <button onClick>Join Now</button>
        </div>
-        <div className="home-image">
-       
+        <div className="images">
+      
          
         </div>
         </section>
